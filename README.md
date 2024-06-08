@@ -4,5 +4,5 @@
 ```
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; right: 0px; bottom: 0px; background-position: 0 0; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 320px; width: 320px; background-image: url('https://github.com/asa-kaya/asa-kaya/blob/main/baizhi-nerd.png?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; right: 0px; bottom: 0px; background-position: 0 0; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 400px; width: 400px; background-image: url('https://github.com/asa-kaya/asa-kaya/blob/main/baizhi-nerd.png?raw=true');]{x0000}$}
 ```
